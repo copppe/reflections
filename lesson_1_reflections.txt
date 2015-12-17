@@ -13,4 +13,3 @@ i can go back to the safe commit and check commit after it to see which cause th
 Now that you have your workspace set up, what do you want to try using Git for?
 editing things that can be edited.
 
-test!
