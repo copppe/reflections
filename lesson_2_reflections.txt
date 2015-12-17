@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+create repository,add a .git document to store shortcut of the commits.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+working dir contains lots of files and staging area is like a between area to pick up specific files to repository.I can commit a bunch of files at each time.
+
